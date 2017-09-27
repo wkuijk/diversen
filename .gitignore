@@ -1,0 +1,11 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Mobile Tools for Java (J2ME)
+
+# Package Files #
+*.jar
+*.war
